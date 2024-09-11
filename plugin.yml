@@ -3,3 +3,17 @@ version: 1.0
 api: 5.0.0
 main: NepheliaTp\Main
 author: xBibou-Fenomeno
+
+permissions:
+  nepheliashop.permissions.command.tpa:
+    default: true
+    description: "/tpa perm"
+  nepheliashop.permissions.command.tpaccept:
+    default: true
+    description: "/tpaccept perm"
+  nepheliashop.permissions.command.tpahere:
+    default: true
+    description: "/tpahere perm"
+  nepheliashop.permissions.command.tpdeny:
+    default: true
+    description: "/tpdeny perm"
