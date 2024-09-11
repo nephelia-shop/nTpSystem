@@ -1,0 +1,27 @@
+tpa:
+  name: "tpa"
+  description: "Permet de faire une demande de tp pour se téléporter à un joueur"
+  usage: "/tpa <joueur>"
+  aliases:
+    - "tpto"
+
+tpahere:
+  name: "tpahere"
+  description: "Permet de faire une demande de tp pour que le joueur se téléporte à vous"
+  usage: "/tpahere <player>"
+  aliases:
+    - "tptohere"
+
+tpaccept:
+  name: "tpaccept"
+  description: "Permet d'accepter une demande de tp"
+  usage: "/tpaccept"
+  aliases:
+    - "tptoaccept"
+
+tpdeny:
+  name: "tpdeny"
+  description: "Permet de refuser une demande de tp"
+  usage: "/tpdeny"
+  aliases:
+    - "tprefuse"
