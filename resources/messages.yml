@@ -1,0 +1,23 @@
+tpa:
+  send: "§aVous avez envoyé une demande de téléportation à {player}"
+  recu: "§aVous avez reçu une demande de téléportation de la part de {player}"
+  cooldown: "§cVous devez encore attendre {time} seconde(s)"
+  not-online: "§cLe joueur n'est pas en ligne"
+  not-found: "§cLe joueur n'est trouvable"
+
+tpaccept:
+  success: "§aVous avez accepté la demande de téléportation"
+  accepted: "§aVotre demande de téléportation a été acceptée"
+  requester-offline: "§cLe joueur qui a demandé la téléportation est hors ligne"
+  no-request: "§cVous n'avez aucune demande de téléportation en attente"
+
+tpdeny:
+  success: "§aVous avez bien refusé la demande de téléportation"
+  denied: "§aVotre demande de téléportation a été refusée"
+
+tpahere:
+  send: "§aVous avez envoyé une demande de téléportation à {player} pour qu'il se téléporte à vous"
+  recu: "§aVous avez reçu une demande de téléportation de {player} pour vous téléporter à lui"
+  not-online: "§cLe joueur n'est pas en ligne"
+  not-found: "§cLe joueur n'est trouvable"
+  cooldown: "§cVous devez encore attendre {time} seconde(s)"
